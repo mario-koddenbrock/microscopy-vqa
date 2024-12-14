@@ -1,0 +1,7 @@
+datasets~=3.2.0
+
+
+opencv-python~=4.10.0.84
+numpy~=2.2.0
+ipython~=8.30.0
+pillow~=11.0.0
